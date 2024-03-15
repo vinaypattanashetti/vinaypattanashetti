@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 <h1 align="center">Hi 👋, I'm Vinay Pattanashetti</h1>
-<h3 align="center">AI Engineer & Data Scientist</h3>
+<h2 align="center">AI Engineer & Data Scientist</h2>
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=vinaypattanashetti" alt="vinaypattanashetti" /></p> 
 <p align="left"> <img src="https://github.com/vinaypattanashetti/github-profile-trophy)
 </body>
