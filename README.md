@@ -2,17 +2,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
-</head>
-<body>
-
-<div class="center-heading">
-  <h1>Hi👋, I'm Vinay Pattanashetti</h1>
-</div>
-
+<h1 align="center">Hi 👋, I'm Vinay Pattanashetti</h1>
+<h3 align="center">AI Engineer & Data Scientist</h3>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=vinaypattanashetti" alt="vinaypattanashetti" /></p> 
+<p align="left"> <img src="https://github.com/vinaypattanashetti/github-profile-trophy)
 </body>
 </html>
 
