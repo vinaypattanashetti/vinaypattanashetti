@@ -6,6 +6,7 @@
 <h2 align="center">AI Engineer & Data Scientist</h2>
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=vinaypattanashetti" alt="vinaypattanashetti" /></p> 
 <p align="left"> <img src="https://github.com/vinaypattanashetti/github-profile-trophy)
+<p align="left"> <a href="https://twitter.com/VinaySP21" target="blank"><img src="https://img.shields.io/twitter/follow/VinaySP21?logo=twitter&style=for-the-badge" alt="VinaySP21" /></a> </p>
 </body>
 </html>
 
