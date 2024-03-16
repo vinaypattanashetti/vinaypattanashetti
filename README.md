@@ -5,6 +5,7 @@
 <h1 align="center">Hi 👋, I'm Vinay Pattanashetti</h1>
 <h2 align="center">AI Engineer & Data Scientist</h2>
 <h3>My Bio:</h3>
+<h3>My main repos:</h3>
 
 <h3 align="left"> Achievements</h3>
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=vinaypattanashetti" alt="vinaypattanashetti" /></p> 
@@ -19,7 +20,9 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  </p> 
 
-<p align="left"> <img src="https://github.com/vinaypattanashetti/github-profile-trophy)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinaypattanashetti&show_icons=true&locale=en" alt="vinaypattanashetti" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaypattanashetti" alt="vinaypattanashetti" /></p>
 
 </body>
 </html>
