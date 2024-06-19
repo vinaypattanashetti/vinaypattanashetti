@@ -17,16 +17,17 @@
         <p>I thrive in dynamic environments where I can leverage my technical skills to drive impactful projects. My passion lies in continuously learning and applying the latest advancements in data science to create innovative solutions that address real-world challenges.</p>
   </ul>
 <p></p>
-<h3>My main repos:</h3>
+  
+<h2>My main repos:</h2>
 <ul>
-  <li> NLP Text Summarization End-to-End Project: <a href="https://github.com/vinaypattanashetti/NLP-Text-Summarization"> 👆 </a></li>
- <li> Malaria Cell Classification- Deep Learning <a href="https://github.com/vinaypattanashetti/CNN-Transfer-learning-malaria-cell-classification"> 👆 </a> </li>
- <li> Credit Risk Modeling - Machine Learning <a href="https://github.com/vinaypattanashetti/Credit-Risk-Modeling-Machine-learning">👆</a> </li>
+  <li><b> NLP Text Summarization End-to-End Project:</b> <a href="https://github.com/vinaypattanashetti/NLP-Text-Summarization"> 👆 </a></li>
+ <li><b> Malaria Cell Classification- Deep Learning</b> <a href="https://github.com/vinaypattanashetti/CNN-Transfer-learning-malaria-cell-classification"> 👆 </a> </li>
+ <li> <b>Credit Risk Modeling - Machine Learning</b> <a href="https://github.com/vinaypattanashetti/Credit-Risk-Modeling-Machine-learning">👆</a> </li>
 </ul>
 
 
 
-<h2 align="left"> 🤝 Connect with me:</h2>
+<h2 align="left"> 📫 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/vinay-pattanashetti21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay-pattanashetti21" height="30" width="40" /></a>
 <a href="https://twitter.com/VinaySP21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VinaySP21" height="30" width="40" /></a>
 
@@ -41,7 +42,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaypattanashetti" alt="vinaypattanashetti" /></p>
 
-<h2 align="left"> Achievements</h2>
+<h2 align="left"> 🏅 Achievements</h2>
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=vinaypattanashetti" alt="vinaypattanashetti" /></p> 
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaypattanashetti&langs_count=10&theme=default&show_icons=true&hide_border=true&layout=compact)
