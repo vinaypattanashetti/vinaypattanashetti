@@ -7,14 +7,7 @@
 <h2> 💫About Me:</h2>
   <ul>
     <p>I am a data science professional with a year of hands-on experience specializing in machine learning, artificial intelligence, and natural language processing (NLP). My expertise extends to the end-to-end deployment of projects, ensuring that innovative solutions are not only developed but also seamlessly integrated into practical applications.</p>
-        <p>Throughout my career, I have worked on various projects that involve the full data science lifecycle—from data collection and preprocessing to model development, evaluation, and deployment. My skill set includes:</p>
-        <ul>
-            <li><strong>Machine Learning:</strong> Proficient in building, training, and fine-tuning machine learning models for diverse applications.</li>
-            <li><strong>Artificial Intelligence:</strong> Experience in developing AI-driven solutions to solve complex problems and automate processes.</li>
-            <li><strong>Natural Language Processing (NLP):</strong> Specialized in extracting insights and building models that understand and generate human language.</li>
-            <li><strong>End-to-End Deployment:</strong> Adept at deploying machine learning models and AI solutions into production environments, ensuring they deliver real-world value.</li>
-        </ul>
-        <p>I thrive in dynamic environments where I can leverage my technical skills to drive impactful projects. My passion lies in continuously learning and applying the latest advancements in data science to create innovative solutions that address real-world challenges.</p>
+    <p>I thrive in dynamic environments where I can leverage my technical skills to drive impactful projects. My passion lies in continuously learning and applying the latest advancements in data science and AI to create innovative solutions that address real-world challenges.</p>
   </ul>
 <p></p>
   
