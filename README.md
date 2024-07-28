@@ -1,21 +1,32 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=1000&lines=%F0%9F%91%8B+%0A+Hi+there!+I'm+Vinay+Pattanashetti%2C+a+passionate+Data+Science+%26+Analytics+expert.+Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<h1 align="center">Hi 👋, I'm Vinay Pattanashetti</h1>
-<h2 align="center">AI Engineer & Data Scientist</h2>
+
+<h2 align="center">Data Scientist & Data Analytics</h2>
+
 <h2> 💫About Me:</h2>
-  <ul>
-    <p>I am a data science professional with a year of hands-on experience specializing in machine learning, artificial intelligence, and natural language processing (NLP). My expertise extends to the end-to-end deployment of projects, ensuring that innovative solutions are not only developed but also seamlessly integrated into practical applications.</p>
-    <p>I thrive in dynamic environments where I can leverage my technical skills to drive impactful projects. My passion lies in continuously learning and applying the latest advancements in data science and AI to create innovative solutions that address real-world challenges.</p>
-  </ul>
-<p></p>
+<ul>
+  <li>💬 Ask me about <strong>Data Science & AI, Data Analysis, Business Analytics</strong></li>
+  <li>👁️‍🗨️ Proficient in NLP and Computer Vision
+  <li>💡 Built End-to-End production ready projects.
+  <li>⚡ Fun fact <strong>I am an excellent Project Planner </strong></li>
+  <li>📫 How to reach me <strong>vinay.pattanashetti922821@gmail.com</strong></li>
+</ul>
   
 <h2>My main repos:</h2>
 <ul>
+  <li><b>Credit Card Financial Dashboard- Power BI:</b><a href="https://github.com/vinaypattanashetti/Credit-Card-Financial-Dashboard-using-Power-BI">👆</a></li>
+  <li><b>Bank Customer Loan Report- Tableau :</b><a href="https://github.com/vinaypattanashetti/Bank-Customers-Loan-Report-using-Tableau-and-SQL">👆</a></li>
+
+  
   <li><b> NLP Text Summarization End-to-End Project:</b> <a href="https://github.com/vinaypattanashetti/NLP-Text-Summarization"> 👆 </a></li>
- <li><b> Malaria Cell Classification- Deep Learning</b> <a href="https://github.com/vinaypattanashetti/CNN-Transfer-learning-malaria-cell-classification"> 👆 </a> </li>
- <li> <b>Credit Risk Modeling - Machine Learning</b> <a href="https://github.com/vinaypattanashetti/Credit-Risk-Modeling-Machine-learning">👆</a> </li>
+ <li><b> Image Cell Classification- Deep Learning</b> <a href="https://github.com/vinaypattanashetti/CNN-Transfer-learning-malaria-cell-classification"> 👆 </a> </li>
+ <li> <b>Credit Risk Modeling - Machine Learning</b> <a href="https://github.com/vinaypattanashetti/Credit-Risk-Modeling-Machine-learning">👆</a> 
+ </li>
+  
 </ul>
 
 
