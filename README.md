@@ -15,7 +15,7 @@
   <li>⚡ Fun fact <strong>I am an excellent Project Planner </strong></li>
   <li>📫 How to reach me <strong>vinay.pattanashetti922821@gmail.com</strong></li>
 </ul>
-  
+<img align="right" alt="coding" height ="250" width="250" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">  
 <h2>My main repos:</h2>
 <ul>
   <li><b>Credit Card Financial Dashboard- Power BI:</b><a href="https://github.com/vinaypattanashetti/Credit-Card-Financial-Dashboard-using-Power-BI">👆</a></li>
