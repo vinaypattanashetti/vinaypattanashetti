@@ -18,12 +18,13 @@
 <img align="right" alt="coding" height ="250" width="250" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">  
 <h2>My main repos:</h2>
 <ul>
+  <li><b>Customer Lifetime Value (CLV) Forecasting:<a href ="https://github.com/vinaypattanashetti/Customer-Lifetime-Value-Forecasting"> 👆</a> </b></li>
   <li><b>Credit Card Financial Dashboard- Power BI:</b><a href="https://github.com/vinaypattanashetti/Credit-Card-Financial-Dashboard-using-Power-BI">👆</a></li>
   <li><b>Bank Customer Loan Report- Tableau :</b><a href="https://github.com/vinaypattanashetti/Bank-Customers-Loan-Report-using-Tableau-and-SQL">👆</a></li>
 
   
-  <li><b> NLP Text Summarization End-to-End Project:</b> <a href="https://github.com/vinaypattanashetti/NLP-Text-Summarization"> 👆 </a></li>
- <li><b> Image Cell Classification- Deep Learning</b> <a href="https://github.com/vinaypattanashetti/CNN-Transfer-learning-malaria-cell-classification"> 👆 </a> </li>
+  <li><b> NLP Text Summarization End-to-End Project:</b> <a href="https://github.com/vinaypattanashetti/NLP-Text-Summarization">👆 </a></li>
+ <li><b> Image Cell Classification- Deep Learning</b> <a href="https://github.com/vinaypattanashetti/CNN-Transfer-learning-malaria-cell-classification">👆 </a> </li>
  <li> <b>Credit Risk Modeling - Machine Learning</b> <a href="https://github.com/vinaypattanashetti/Credit-Risk-Modeling-Machine-learning">👆</a> 
  </li>
   
