@@ -18,7 +18,7 @@
 <img align="right" alt="coding" height ="250" width="250" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">  
 <h2>My main repos:</h2>
 <ul>
-  <
+  
   <li><b>Credit Card Financial Dashboard- Power BI:</b><a href="https://github.com/vinaypattanashetti/Credit-Card-Financial-Dashboard-using-Power-BI">👆</a></li>
   <li><b>Bank Customer Loan Report- Tableau :</b><a href="https://github.com/vinaypattanashetti/Bank-Customers-Loan-Report-using-Tableau-and-SQL">👆</a></li>
 
