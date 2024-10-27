@@ -5,7 +5,7 @@
 <html lang="en">
 <head>
 
-<h2 align="center">Data Scientist & Data Analytics</h2>
+<h2 align="center">Data Scientist & AI Engineer</h2>
 
 <h2> 💫About Me:</h2>
 <ul>
